@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\USER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\USER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\USER\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PasswordManager.exe.config
+C:\Users\USER\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PasswordManager.exe
+C:\Users\USER\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PasswordManager.pdb
+C:\Users\USER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PasswordManager.exe
+C:\Users\USER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PasswordManager.pdb
